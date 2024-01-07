@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelobado
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Databases, Python, and JavaScript
-- 💞️ I’m looking to collaborate on projects that heavily involve the use of Databases
+- 👀 I’m interested in Software Engineer
+- 🌱 I'm on a continuous path to learn everyday. Interests on Python, Databases, Docker, K8s
+- 💞️ I’m looking to collaborate on projects that are interesting with use of Python.
 - 📫 How to reach me: michaelokoth43@gmail.com
 
 <!---
